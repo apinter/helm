@@ -1,0 +1,1 @@
+Simple helm+kubectl image
